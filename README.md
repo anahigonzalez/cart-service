@@ -1,4 +1,4 @@
-# Mock Service
+# Cart Service
 
 ## Overview
 Learning Spring Boot and REST
